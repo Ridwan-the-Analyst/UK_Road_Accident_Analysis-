@@ -1,5 +1,8 @@
 # 🚦 UK Road Accident Analysis Project
 
+![UK Road Accident Banner](Road_accident.png) 
+
+
 This project analyzes UK road traffic accident data using Microsoft SQL Server and Power BI to uncover patterns, trends, and actionable insights to improve road safety.
 
 ---
