@@ -44,7 +44,7 @@ Experience the interactive dashboard live here:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](./screenshots/dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
@@ -84,7 +84,7 @@ For a deeper analysis, findings, and recommendations, please read the full [Insi
 ## 🚀 How to Use This Project
 1. Open the `.pbix` file with Power BI Desktop.
 2. Explore interactive visualizations and filters.
-3. (Optional) Load data into SQL Server for custom queries.
+
 
 ---
 
