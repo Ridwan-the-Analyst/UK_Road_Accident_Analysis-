@@ -47,8 +47,8 @@ Experience the interactive dashboard live here:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard.png)
 
+![UK Road Accident Dashboard](https://raw.githubusercontent.com/Ridwan-the-Analyst/UK_Road_Accident_Analysis-/main/Dashboard.png)
 ---
 
 ## ❓ Key Business Questions Answered
